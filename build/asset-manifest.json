@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0e06a73.chunk.css",
+    "main.js": "/static/js/main.ea16d52d.chunk.js",
+    "main.js.map": "/static/js/main.ea16d52d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2450dc06.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2450dc06.js.map",
+    "static/css/2.2fbe55bd.chunk.css": "/static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.a277a260.chunk.js": "/static/js/2.a277a260.chunk.js",
+    "static/js/2.a277a260.chunk.js.map": "/static/js/2.a277a260.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.6cb8eeb080eb80f34adf09659a382d99.js": "/precache-manifest.6cb8eeb080eb80f34adf09659a382d99.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2fbe55bd.chunk.css.map": "/static/css/2.2fbe55bd.chunk.css.map",
+    "static/css/main.b0e06a73.chunk.css.map": "/static/css/main.b0e06a73.chunk.css.map",
+    "static/js/2.a277a260.chunk.js.LICENSE.txt": "/static/js/2.a277a260.chunk.js.LICENSE.txt",
+    "static/media/category-bike.png": "/static/media/category-bike.59b06a08.png",
+    "static/media/category-walk.png": "/static/media/category-walk.444879f3.png",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2450dc06.js",
+    "static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.a277a260.chunk.js",
+    "static/css/main.b0e06a73.chunk.css",
+    "static/js/main.ea16d52d.chunk.js"
+  ]
+}

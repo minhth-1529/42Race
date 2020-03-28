@@ -1,0 +1,1 @@
+export const GET_WALKING_RACE = 'GET_WALKING_RACE';
